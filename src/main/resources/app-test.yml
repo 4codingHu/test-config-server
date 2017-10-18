@@ -1,0 +1,5 @@
+from: git-test-1.0
+name: config-server
+auth: huyang
+version: 1.0.0
+
