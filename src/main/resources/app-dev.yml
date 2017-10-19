@@ -1,4 +1,4 @@
-from: git-default-3.0
+from: git-default-4.0
 name: config-server
 auth: huyang
 version: 1.0.0
