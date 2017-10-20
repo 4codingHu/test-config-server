@@ -1,4 +1,4 @@
-from: git-test-8.0
+from: git-test-9.0
 name: config-server
 auth: huyang
 version: 1.0.0
