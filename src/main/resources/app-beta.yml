@@ -1,4 +1,4 @@
-from: git-beta-6.0
+from: git-beta-7.0
 name: config-server
 auth: huyang
 version: 1.0.0
